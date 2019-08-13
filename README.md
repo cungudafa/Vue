@@ -1,5 +1,5 @@
-﻿# SpringBoot
-小白的Springboot学习记录，后面主要是为了结合vue前后端分离
+﻿# Vue
+小白的Vue学习记录，后面主要是为了结合Springboot前后端分离
 
 >详细参考细节参考：`cungudafa的CSDN博客分类——Vue`
 >
