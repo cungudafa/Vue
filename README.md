@@ -15,6 +15,13 @@
 
 # 项目历程
 
+## VueDay3
+
+2019/8/16
+
+`【Vue上手小项目Day3】折叠菜单栏+面包屑`
+
+参考：https://blog.csdn.net/cungudafa/article/details/99680261
 
 ## VueDay2
 
