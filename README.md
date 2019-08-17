@@ -15,6 +15,14 @@
 
 # 项目历程
 
+## VueDay4
+
+2019/8/17
+
+`【第一个Vue上手小项目Day4】Element-table表格+Pagination 分页（前后端结合）`
+
+参考：https://blog.csdn.net/cungudafa/article/details/99690432
+
 ## VueDay3
 
 2019/8/16
