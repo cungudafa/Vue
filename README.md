@@ -15,6 +15,15 @@
 
 # 项目历程
 
+
+## VueDay5
+
+2019/8/17
+
+`【第一个Vue上手小项目Day5】单独封装Echarts图表，后端Lambda进行数据筛选`
+
+参考：https://blog.csdn.net/cungudafa/article/details/99708089
+
 ## VueDay4
 
 2019/8/17
