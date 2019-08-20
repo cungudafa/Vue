@@ -15,6 +15,13 @@
 
 # 项目历程
 
+## VueDay6
+
+2019/8/17
+
+`【第一个Vue上手小项目Day6】导出Excel表格（解决分页矛盾+导出指定内容）`
+
+参考：https://blog.csdn.net/cungudafa/article/details/99826848
 
 ## VueDay5
 
